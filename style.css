@@ -1,0 +1,24 @@
+#tblRecords {
+    margin: 20px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+#tblRecords th {
+    border-bottom: 1px solid;
+    padding: 5px;
+    border-right: 1px solid;
+}
+
+#tblRecords th:last-child {
+    border-right: none;
+}
+
+#tblRecords td {
+    border-right: 1px solid;
+    padding: 10px;
+}
+
+#tblRecords td:last-child {
+    border-right: none;
+}
